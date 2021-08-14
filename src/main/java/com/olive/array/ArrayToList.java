@@ -7,6 +7,7 @@ import java.util.List;
 public class ArrayToList {
 
 	public static void main(String[] args) {
+		
 		String[] s= {"D","A","S","B"};
 		System.out.println("In array format");
 		for(String s1:s) {
