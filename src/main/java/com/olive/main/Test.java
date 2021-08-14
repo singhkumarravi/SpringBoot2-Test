@@ -12,6 +12,7 @@ public class Test {
 	al.add(10);
 	al.add(0);
 	al.add(5);
+	
 	al.add(15);
 	al.add(20);
 	System.out.println(al);
